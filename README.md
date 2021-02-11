@@ -13,10 +13,14 @@ Install ROS Kinetic
 	http://wiki.ros.org/kinetic/Installation/Ubuntu
 
 Install Arduino IDE (Download from site and ./install.sh)
+	Качаем установочный архив с официального сайта Arduino.
+	Распаковываем и следуем инструкциям по установке.
 	https://www.arduino.cc/en/Guide/Linux
 
 Install Arduino library from Arduino IDE (AccelStepper)
+	Устанавливаем библиотеку AccelStepper через менеджер библиотек внутри Arduino IDE.
 Install Arduino library ros_lib
+	Следуем инструкциям с сайта и устанавливаем.
 	Download library and:
 		cd <sketchbook>/libraries
 		rm -rf ros_lib
