@@ -38,6 +38,8 @@ Install Arduino library ros_lib
 		rosrun rosserial_arduino make_libraries.py .
 	http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
 
+Не забываем установить также библиотеку moveit
+sudo apt-get install ros-kinetic-moveit
 
 
 
