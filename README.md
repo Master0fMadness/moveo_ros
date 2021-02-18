@@ -40,6 +40,8 @@ Install Arduino library ros_lib
 
 Не забываем установить также библиотеку moveit
 sudo apt-get install ros-kinetic-moveit
+ sudo apt-get install ros-kinetic-moveit-visual-tools
+
 
 
 
